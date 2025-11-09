@@ -1,0 +1,22 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+media/
+.env
+.env.local
+
+# Database
+# احذف السطر التالي أو اتركه م commented ليتم رفع db.sqlite3
+# db.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
